@@ -6,8 +6,9 @@ import Tic from "../src/component/Tic.js";
 function App() {
   return (
     <div>
-      <Tic/>
-      <Tic/>
+      <Tic />
+      <Tic />
+      <Tic />
     </div>
   );
 }
